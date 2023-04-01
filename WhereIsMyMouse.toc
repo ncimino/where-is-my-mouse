@@ -1,0 +1,5 @@
+## Interface: 90005
+## Title: Where is My Mouse
+## Author: Sooth
+## Version: 1.0
+WhereIsMyMouse.lua
